@@ -13,8 +13,10 @@ header {
     margin-right: 20px;
 }
 
-.album h2 span {
-    padding-left: 10px;
-    color: #555;
-    font-size: 1.5rem
+.album h2 {
+    font-size: 1.5rem;
+}
+
+.sort-by {
+    margin: 0 10px;
 }
